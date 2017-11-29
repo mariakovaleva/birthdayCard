@@ -1,2 +1,2 @@
 # birthdayCard
-Birthdaz card for Udacity
+Birthday card for Udacity Android Basics.
