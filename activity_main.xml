@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:src="@drawable/party"
+        android:contentDescription="Noice pic"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_margin="16dp"
+        android:fontFamily="@font/vollkorn"
+        android:gravity="center"
+        android:text="Alles Gute zum Geburtstag, \n Dasha!"
+        android:textColor="#FAFAFA"
+        android:textSize="40sp"
+        android:shadowColor="#212121"
+        android:shadowDx="1.5"
+        android:shadowDy="1.3"
+        android:shadowRadius="1.6"
+        android:textStyle="bold" />
+
+
+
+
+</RelativeLayout>
